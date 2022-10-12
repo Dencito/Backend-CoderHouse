@@ -45,7 +45,7 @@ console.log(user1.getFullName());
 
 console.log('Contador de libros:',user1.getBookNames().length, user1.getBookNames());
 user1.addBook("Agujeros negros y universos bebés y otros ensayos", "Stephen Hawking")
-console.log('Contador de libros al agregar:',user1.getBookNames().length, user1.getBookNames()); // 'Rebelión en la granja', 'Sin blanca en Paris y Londres', 'Arte abstracto y arte figurativo'
+console.log('Contador de libros al agregar:',user1.getBookNames().length, user1.getBookNames());
 
 console.log('Contador de mascotas:',user1.countMascotas()); // 2
 user1.addMascota('Jirafa');
