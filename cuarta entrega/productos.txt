@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Plasticola",
+    "price": 150,
+    "thumbnail": "https://th.bing.com/th/id/OIP.8DJhupIbRWMFwvlV33nAhgAAAA?pid=ImgDet&rs=1",
+    "id": 1
+  },
+  {
+    "title": "Lapicera",
+    "price": 80,
+    "thumbnail": "https://th.bing.com/th/id/R.fd12350ed0e1a4cc5db4a5ba4c9c1f0b?rik=VWSWLjwnrfrqGA&riu=http%3a%2f%2fwww.amoblamaq.com.ar%2fwp-content%2fuploads%2f2018%2f02%2flapicera-bic-azul-450x450.jpg&ehk=kk3qzTOB97i8mhmsDLH7SCLdY7ggLUhF3UJs0qN71NA%3d&risl=&pid=ImgRaw&r=0",
+    "id": 2
+  },
+  {
+    "title": "Tijera",
+    "price": 200,
+    "thumbnail": "https://th.bing.com/th/id/R.fd12350ed0e1a4cc5db4a5ba4c9c1f0b?rik=VWSWLjwnrfrqGA&riu=http%3a%2f%2fwww.amoblamaq.com.ar%2fwp-content%2fuploads%2f2018%2f02%2flapicera-bic-azul-450x450.jpg&ehk=kk3qzTOB97i8mhmsDLH7SCLdY7ggLUhF3UJs0qN71NA%3d&risl=&pid=ImgRaw&r=0",
+    "id": 3
+  },
+  {
+    "title": "Carpeta",
+    "price": "350",
+    "thumbnail": "http://d3ugyf2ht6aenh.cloudfront.net/stores/934/828/products/carpeta-lama-escolar-3-x-40-mm-forrada-pvc-pastel1-cf9087efbcae02b23416407880821110-640-0.jpg",
+    "id": 4
+  },
+  {
+    "title": "Sacapuntas",
+    "price": "150",
+    "thumbnail": "https://media.istockphoto.com/photos/photo-of-one-pencilsharpener-picture-id179036329?k=20&m=179036329&s=612x612&w=0&h=MvcRKAKMsdbb4x6rAap1odYV0Z8xem0nEw_t4ibDlyY=",
+    "id": 5
+  }
+]
