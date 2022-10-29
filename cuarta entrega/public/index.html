@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="style.css">
+		<title>POST</title>
+	</head>
+	<body>
+		<h1>POST Form</h1>
+		<form method="POST" action="http://localhost:8080/api/productos">
+			<input type="text" name="title" placeholder="Nombre" required>
+			<input type="number" name="price" placeholder="Precio" required>
+			<input type="text" name="thumbnail" placeholder="Url de imagen" required>
+			<button type="submit">ingresar producto</button>
+		</form>
+	</body>
+</html>
